@@ -1,4 +1,4 @@
-html {
+/*html {
   font-size: 14px;
 }
 
@@ -19,4 +19,33 @@ html {
 
 body {
   margin-bottom: 60px;
+}*/
+
+/* Content/site.css */
+
+/* Set a pleasant background color */
+body {
+    background-color: #f0f4f8; /* Light blue-gray color */
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+    color: #333; /* Dark gray text color */
+    margin: 0;
+    padding: 0;
 }
+
+/* Style for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif; /* Use Montserrat for headings */
+    color: #222; /* Slightly darker gray for headers */
+}
+
+/* Additional styles */
+.container {
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #007bff; /* Blue color for navbar */
+    color: white;
+}
+
+
