@@ -2,10 +2,10 @@
 {
     public enum ClubCategory
     {
-        RoadRunner,
+        Yoga,
         Womens,
-        City,
-        Trail,
-        Endurance
+        Zumba,
+        Gym,
+        Cycling
     }
 }

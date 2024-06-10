@@ -142,3 +142,4 @@ C:\Users\Tanmayi Kasthuri\source\repos\RunGroopWebApp\RunGroopWebApp\obj\Debug\n
 C:\Users\Tanmayi Kasthuri\source\repos\RunGroopWebApp\RunGroopWebApp\obj\Debug\net8.0\RunGroopWebApp.pdb
 C:\Users\Tanmayi Kasthuri\source\repos\RunGroopWebApp\RunGroopWebApp\obj\Debug\net8.0\RunGroopWebApp.genruntimeconfig.cache
 C:\Users\Tanmayi Kasthuri\source\repos\RunGroopWebApp\RunGroopWebApp\obj\Debug\net8.0\ref\RunGroopWebApp.dll
+C:\Users\Tanmayi Kasthuri\source\repos\RunGroopWebApp\RunGroopWebApp\obj\Debug\net8.0\RunGroopWebApp.sourcelink.json
